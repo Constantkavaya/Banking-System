@@ -9,8 +9,7 @@ class Account:
          self.loan=0
          self.loanfees=5 
          self.transactions=[]
-         self.repay=0
-         self.repayed=[]
+         
 
      def deposite(self,amount):
         try:
